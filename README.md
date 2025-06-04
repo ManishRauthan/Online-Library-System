@@ -1,12 +1,36 @@
-# React + Vite
+# 📚 Book Browser App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Book Browser App** – A web app built with **React** that allows users to browse and search books by category and keywords using the **Google Books API**. 🔍✨
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📖 Browse books by categories like fiction, non-fiction, science, etc.
+- 🔍 Search by **title** or **author**
+- 📌 Displays results dynamically using Google Books API
+- 📭 Shows "No books found" if nothing matches your search
+- 🎨 Clean, responsive UI styled with **Tailwind CSS**
+- 💡 Modular component structure for easy maintenance
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demo
+
+![image](https://github.com/user-attachments/assets/77bb5687-33ff-4a39-842c-4a197ec61d7b)
+
+![image](https://github.com/user-attachments/assets/6bf76589-3542-4794-a2da-77d348d6ea64)
+
+![image](https://github.com/user-attachments/assets/7fbcc031-ef9d-408a-8c9f-e50a28936130)
+
+
+
+
+---
+
+## 🧪 Tech Stack
+
+- ⚛️ React
+- 🌐 Google Books API
+- 🎨 Tailwind CSS
+- 🗂️ Component-based structure
+
+
